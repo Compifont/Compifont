@@ -1,0 +1,7 @@
+Strings compiled by Marcin Dziembor for the use in Compifont using:
+
+1. Papelmedia strings by Simon Tristan Papel on "Just give credit" license
+2. Strings Beautiful Lyrical on "CC0" license
+3. Samples from freesound.org by Music Technology Group, Universitat Pompeu Fabra under Attribution 3.0 Unported (CC BY 3.0) license
+4. Orchestral Strings on "CC0" license
+5. "Skrypci" compiled by Marcin Dziembor using samples by CGEffex on CC BY 3.0, from https://freesound.org/people/CGEffex/
