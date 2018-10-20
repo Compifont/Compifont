@@ -1,0 +1,3 @@
+Distortion guitar was made using UBERGUITARV and OD Guitar recorded using free VST with effects added on Audacity.
+
+AS it is a part of Compifont, its licence applies.
