@@ -1,0 +1,6 @@
+CC0/Public Domain license
+
+From ethanwiner.com:
+
+Over the years I've created many original musical instrument sample sets in the SoundFont format. This is an older format, but is still supported by most sample player programs and plug-ins. Some of these SoundFonts are too good not to share, and hopefully you'll find them useful too. Each SoundFont is in its own Zip file for slightly faster downoading. These files are made available for you to use in any way you'd like, royalty free, including for commercial projects, with no attribution required. Enjoy!
+
