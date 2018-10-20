@@ -1,0 +1,147 @@
+35 36  Bass Drum
+quartertone [attri]
+https://freesound.org/people/quartertone/sounds/137362/
+https://freesound.org/people/quartertone/sounds/137361/
+
+37 Side Stick 
+ianhall [attri]
+https://freesound.org/people/ianhall/sounds/13252/
+
+38 Snare
+hookhead [cc0]
+https://freesound.org/people/hookhead/sounds/13750/
+sandyrb [attri]
+https://freesound.org/people/sandyrb/sounds/79758/
+
+EKVelika [cc0]
+https://freesound.org/people/EKVelika/sounds/207870/
+
+39 Clap
+ramjac [attri]
+https://freesound.org/people/ramjac/sounds/21183/
+
+40 Electric Snare
+n1ghthawk [cc0]
+https://freesound.org/people/n1ghthawk/sounds/172122/
+
+41 Floor Tom
+ianhall [attri]
+https://freesound.org/people/ianhall/sounds/13245/
+
+42 Closed Hihat
+ianhall [attri]
+https://freesound.org/people/ianhall/sounds/13246/
+
+43 High Floor Tom
+atomwrath [attri]
+https://freesound.org/people/atomwrath/sounds/11399/
+
+44 Pedal Hihat
+Sampled from FreshApproachBooks
+https://www.youtube.com/watch?v=ANGpnnDmuZE
+
+45 Low Tom
+atomachache [cc0]
+https://freesound.org/people/stomachache/sounds/29789/
+
+46 Open Hihat
+ianhall [attri]
+https://freesound.org/people/ianhall/sounds/13248/
+
+47 Low-Mid Tom
+Veiler [cc0]
+https://freesound.org/people/Veiler/sounds/209879/
+
+48 Hi-MId Tom
+pjcohen [cc0]
+https://freesound.org/people/pjcohen/sounds/46552/
+
+49 Crash Cymbal 1
+ianhall [attri]
+https://freesound.org/people/ianhall/sounds/13244/
+
+50 High Tom
+ianhall [attri]
+https://freesound.org/people/ianhall/sounds/13249/
+
+51 Ride Cymbal
+soundjoao [attri]
+https://freesound.org/people/soundjoao/sounds/330131/
+
+52 Chinese Cymbal
+ianhall [attri]
+https://freesound.org/people/ianhall/sounds/13243/
+
+53 Ride Bell
+jesterdyne [attri]
+https://freesound.org/people/jesterdyne/sounds/81251/
+
+54 Tambourine
+Densine
+
+55 Splash Cymbal
+ianhall [attri]
+https://freesound.org/people/ianhall/sounds/13254/
+
+56 Cowbell
+GowlerMusic [attri]
+https://freesound.org/people/GowlerMusic/sounds/364919/
+
+57 Crash Cymbal 2
+deleted_user_7146007
+https://freesound.org/people/deleted_user_7146007/sounds/383891/
+
+58 Vibraslap
+benaraiza [cc0]
+https://freesound.org/people/benaraiza/sounds/73215/
+
+59 Ride Cymbal 2
+Veiler [cc0]
+https://freesound.org/people/Veiler/sounds/209900/
+
+60-64 Bongo + Conga
+Menegass [cc0]
+https://freesound.org/people/menegass/sounds/99754/
+https://freesound.org/people/menegass/sounds/99752/
+https://freesound.org/people/menegass/sounds/99863/
+https://freesound.org/people/menegass/sounds/99864/
+https://freesound.org/people/menegass/sounds/99865/
+
+65-66 Timbale
+Sampled from In the Studio with Giovanni Hidalgo 
+https://www.youtube.com/watch?v=ths6YHITLTU
+
+67-68 Agogo
+Menegass [cc0]
+https://freesound.org/people/menegass/sounds/99851/
+https://freesound.org/people/menegass/sounds/99852/
+
+69 Cabasa
+Sampled from How to Play the Cabasa
+https://www.youtube.com/watch?v=cW_xLgjbnBI
+
+70 Maracas [test]
+Sampled from Playing Maracas with John Santos
+https://www.youtube.com/watch?v=fUgj-aL6EXg
+
+71-72 Whistle
+Sampled from Acme Samba Whistle
+https://www.youtube.com/watch?v=iQC3FmJsGzA
+
+73-74 Guiro
+dfeltch [cc0]
+https://freesound.org/people/dfeltch/sounds/171685/
+
+75 Claves
+juskiddink [attri]
+https://freesound.org/people/juskiddink/sounds/130853/
+
+76-77 Woodblock
+Densine
+
+78-79 Cuica
+reinsamba [attri]
+https://freesound.org/people/reinsamba/sounds/21722/
+
+80-81 Triangle
+Densine
