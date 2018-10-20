@@ -1,0 +1,6 @@
+Copyright ©2001 Jim Beebe
+1965 Harmony Rocket Hollowbody Guitar
+
+From Comments:
+My first attempt at creating a Soundfont.  Samples were recorded from my 1965 Harmony Rocket straight into the mixing board.  No loops (sorry, too advanced for me, maybe next time).  The guitar is strung with 11 gauge flatwound strings and the neck pickup was used.  Suitable for jazz.  The lower register turned out pretty nice, but I'm not satisfied with the upper register (MIDI note 68 onward).  Maybe somebody who has experience making Soundfonts and knows what they are doing could tweak it.
+Hope it's useful.  Wish it was smaller, but didn't want to stretch the samples any further.
